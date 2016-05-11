@@ -10,18 +10,18 @@ E' un progetto volutamente semplice, aperto e con una sola regola: manteniamo il
 # Provincia
 
 * [Geoportale cartografico](http://www.territorio.provincia.tn.it/portal/server.pt/community/cartografia_di_base/260/cartografia_di_base/19024): geoportale cartografico provinciale
-  * [Geoserver](http://www.geoserver.org) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg) server di pubblicazione cartografie tramite WFS e WMS - standard OGC
+  * [Geoserver](http://www.geoserver.org)  server di pubblicazione cartografie tramite WFS e WMS (standard OGC) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
 
 # Comuni
 
 ## Trento
 
 * [Servizi cartografici](http://www.comune.trento.it/Aree-tematiche/Cartografia/Servizi-WMS-e-WFS/Come-collegarsi): servizi cartografici a livello comunale
-  * [Qgis](http://qgis.org) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg) applicazione gis desktop per la fruizione di dati cartografici
+  * [Qgis](http://qgis.org) applicazione gis desktop per la fruizione di dati cartografici [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
 
 # Fondazioni
 
 ## Fondazione Bruno Kessler
 
-* [Eclipse](http://www.eclipse.org) - EPL 1.0 - IDE di sviluppo
-* [Notepad++](https://notepad-plus-plus.org/) - GPLv2.0 - editor di testo
+* [Eclipse](http://www.eclipse.org) IDE di sviluppo multilinguaggio  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0) 
+* [Notepad++](https://notepad-plus-plus.org/) editor di testo evoluto [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
