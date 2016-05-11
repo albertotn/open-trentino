@@ -1,5 +1,7 @@
 # open-trentino
-Questa vuole essere una lista aperta di software open source utilizzato nella pubbliche amministrazioni trentine
+Questa vuole essere una lista aperta di software open source utilizzato nella pubbliche amministrazioni trentine, rilasciate tramite licenza MIT 
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Introduzione
 L'obbiettivo di questa lista vuole essere quello di creare informazione sulle soluzioni open source utilizzate nella pubblica amministrazione trentina, ad ogni livello.
