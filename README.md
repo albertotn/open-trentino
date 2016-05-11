@@ -10,9 +10,14 @@ E' un progetto volutamente semplice, aperto e con una sola regola: manteniamo il
 # Provincia
 
 * [Geoportale cartografico](http://www.territorio.provincia.tn.it/portal/server.pt/community/cartografia_di_base/260/cartografia_di_base/19024): geoportale cartografico provinciale
-  * [Geoserver](http://www.geoserver.org) - GPLv2.0 - server di pubblicazione cartografie tramite WFS e WMS - standard OGC
+  * [Geoserver](http://www.geoserver.org) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg) server di pubblicazione cartografie tramite WFS e WMS - standard OGC
 
 # Comuni
+
+## Trento
+
+* [Servizi cartografici](http://www.comune.trento.it/Aree-tematiche/Cartografia/Servizi-WMS-e-WFS/Come-collegarsi): servizi cartografici a livello comunale
+  * [Qgis](http://qgis.org) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg) applicazione gis desktop per la fruizione di dati cartografici
 
 # Fondazioni
 
