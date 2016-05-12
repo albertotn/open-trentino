@@ -25,3 +25,4 @@ E' un progetto volutamente semplice, aperto e con una sola regola: manteniamo il
 
 * [Eclipse](http://www.eclipse.org) IDE di sviluppo multilinguaggio  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0) 
 * [Notepad++](https://notepad-plus-plus.org/) editor di testo evoluto [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
+* [Drupal](https://www.drupal.org/) CMS [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
