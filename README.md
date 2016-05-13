@@ -1,7 +1,5 @@
 # open-trentino
-Questa vuole essere una lista aperta di software open source utilizzato nella pubbliche amministrazioni trentine, rilasciate tramite licenza CC 
-
- [![License: CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+Questa vuole essere una lista aperta di software open source utilizzato nella pubbliche amministrazioni trentine, rilasciate tramite licenza [Creative Commons Attribution 4.0 International CC-BY] (http://creativecommons.org/licenses/by/4.0/)
 
 # Introduzione
 L'obbiettivo di questa lista vuole essere quello di creare informazione sulle soluzioni open source utilizzate nella pubblica amministrazione trentina, ad ogni livello.
